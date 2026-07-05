@@ -1,5 +1,5 @@
 AutoAssist
-An AI-powered automotive troubleshooting agent built with Python and Gemini.
+An AI-powered automotive troubleshooting agent built with Python.
 
 Features
 Provides diagnostic insights based on vehicle issues.
