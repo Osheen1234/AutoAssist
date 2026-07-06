@@ -1,5 +1,4 @@
 import requests
-import os
 
 # Get API key from environment variable
 API_KEY = os.environ.get("GEMINI_API_KEY")
